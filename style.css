@@ -1,6 +1,6 @@
 body {
 
-background-color: rgb(125, 130, 166);
+background-color: rgb(144, 149, 189);
 
 
 }
@@ -12,19 +12,19 @@ h1 {
 
 
 h2{
-color: rgba(30, 30, 134, 0.916);
+color: rgba(26, 26, 112, 0.916);
 }
 
 
 h3 {
-color: rgb(30, 30, 134);
-
+color: rgba(26, 26, 112, 0.916);
 }
+
 
 
 h4 {
 
-    color: rgb(30, 30, 134);
+    color: rgba(26, 26, 112, 0.916);
 font-family: Georgia;
 
 }
@@ -35,20 +35,4 @@ width: 280px;
 height: auto;
 }
 
-.conteiner {
-display: flex;
-gap: 20px;
-
-}
-
-.conteiner div {
-text-align: center;
-
-}
-
-.conteiner img {
-
-width: 250px;
-height: auto;
-}
 
