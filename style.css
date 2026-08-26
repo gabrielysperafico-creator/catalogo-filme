@@ -31,3 +31,21 @@ img {
 width: 200px;
 height: auto;
 }
+
+.conteiner {
+display: flex;
+gap: 20px;
+
+}
+
+.conteiner div {
+text-align: center;
+
+}
+
+.conteiner img {
+
+width: 250px;
+height: auto;
+}
+
