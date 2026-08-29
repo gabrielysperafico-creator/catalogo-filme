@@ -35,4 +35,9 @@ width: 280px;
 height: auto;
 }
 
+.container {
 
+display: flex;
+justify-content: space-between;
+
+}
