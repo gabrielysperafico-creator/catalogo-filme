@@ -70,5 +70,9 @@ height: 60px;
 object-fit: contain;
 }
 
+.cabeçalho >header {
 
+color: blue;
+
+}
 
