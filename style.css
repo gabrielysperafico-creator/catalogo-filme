@@ -61,7 +61,7 @@ header {
 display: flex;
 align-items: center;
 gap: 15px;
-color: blue;
+
 }
 
 header img {
@@ -71,4 +71,8 @@ height: 60px;
 object-fit: contain;
 }
 
+.cabecalho {
 
+    color: aquamarine;
+
+}
