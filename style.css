@@ -90,12 +90,22 @@ padding: 0 40px;
 }
 
 
-.mouse-color {
+.imagem-filme-1
+.imagem-filme-2
+.imagem-filme-3 {
 
-color: rgb(29, 42, 65);
-text-decoration: none;
-margin-right: 20px;
-
+border: 4px solid transparent;
 
 
 }
+
+
+.imagem-filme-1:hover
+.imagem-filme-2:hover
+.imagem-filme-3:hover {
+
+border-color: rgb(99,32,36);
+
+
+}
+
